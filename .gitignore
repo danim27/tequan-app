@@ -1,0 +1,12 @@
+/tequan/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+Users/
+
+# Maven
+log/
+target/
